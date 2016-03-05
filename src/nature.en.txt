@@ -1,0 +1,6 @@
+winter
+spring
+summer
+fall
+seasons
+weather
