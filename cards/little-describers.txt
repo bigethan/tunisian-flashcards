@@ -1,0 +1,25 @@
+by	بل
+sometimes	ساعات
+less	افل
+more	اكثر
+in front	قدّام
+behind	ورا
+left	الِيسَارْ
+right	الِيمِينْ
+and	و
+but	امّا
+so	يخي
+on	عاى
+never	جماة
+rarely	قليل
+always	ديما
+there is	فمّا
+also	زادى
+soon	قريب
+before	قَبَلْ
+after	بَعد
+until	حتّى
+now	توّ
+other	اُخرى
+once	مرّة
+again	مرّة اُخرى

@@ -1,0 +1,6 @@
+1 hour	ساعة
+2 hours	ساعتين
+2+ hours	سوايع
+morning	صباح
+noon	نفص النهار
+night	الليل

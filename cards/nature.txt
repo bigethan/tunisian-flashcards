@@ -1,0 +1,6 @@
+winter	شتا
+spring	ربيح
+summer	صيف
+fall	خريف
+seasons	فصول
+weather	طقس

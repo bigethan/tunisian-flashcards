@@ -1,0 +1,3 @@
+sweet	حلو
+savory	مالح
+cheese	جبن
