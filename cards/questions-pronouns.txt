@@ -1,0 +1,14 @@
+I	اَنا
+you	اِنتِ
+he	هُوَ
+she	هِيَّ
+we	اَحنا
+you (p)	اِنتوما
+they	هوما
+who	شكون
+what	شنوّة
+where	وِينْ
+when	وقْتاش
+how	كِيفَاش
+how much	قدّاش
+	
